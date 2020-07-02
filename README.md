@@ -1,2 +1,4 @@
-# Project1
- Calculator using javascript,HTML 5, CSS
+# Project1 
+This project is a web calculator based on javascript, CSS, and HTML. This project is comprehensively explained with comments and could easily be understood by any beginners zealous of learning web development. 
+ 
+ 
